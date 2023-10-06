@@ -1,9 +1,318 @@
-The MIT License (MIT)
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Eighty6\n"
+"Language: en\n"
 
-Copyright (c) 2019 Cypress.io, Inc.
+#: 
+msgctxt "\"auth\""
+msgid "login_text"
+msgstr "Login"
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+#: 
+msgctxt "\"auth\""
+msgid "please_enter_details"
+msgstr "Enter the information you entered while registering."
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+#: 
+msgctxt "\"auth\""
+msgid "please_enter_details_to_signin"
+msgstr "Please enter your details to sign in."
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+#: 
+msgctxt "\"auth\""
+msgid "email"
+msgstr "Email"
+
+#: 
+msgctxt "\"auth\""
+msgid "password"
+msgstr "Password"
+
+#: 
+msgctxt "\"auth\""
+msgid "remember_me"
+msgstr "Remember me"
+
+#: 
+msgctxt "\"auth\""
+msgid "forgot_password"
+msgstr "Forgot password"
+
+#: 
+msgctxt "\"auth\""
+msgid "enter_email_to_reset_password"
+msgstr "Enter your email account to reset password."
+
+#: 
+msgctxt "\"auth\""
+msgid "check_your_email"
+msgstr "Check your email"
+
+#: 
+msgctxt "\"auth\""
+msgid "recover_password_instruction_message"
+msgstr "We have sent instructions to recover your passoword to your email."
+
+#: 
+msgctxt "\"auth\""
+msgid "reset_password"
+msgstr "Reset Password"
+
+#: 
+msgctxt "\"auth\""
+msgid "enter_new_password_to_update"
+msgstr "Enter a new password to update your password"
+
+#: 
+msgctxt "\"auth\""
+msgid "code"
+msgstr "Code"
+
+#: 
+msgctxt "\"auth\""
+msgid "new_password"
+msgstr "New password"
+
+#: 
+msgctxt "\"auth\""
+msgid "re_new_password"
+msgstr "Re-new password"
+
+#: 
+msgctxt "\"auth\""
+msgid "confirm_password"
+msgstr "Confirm Password"
+
+#: 
+msgctxt "\"auth\""
+msgid "back_to_login"
+msgstr "Back to login"
+
+#: 
+msgctxt "\"auth\""
+msgid "congratulation"
+msgstr "Congratulation"
+
+#: 
+msgctxt "\"auth\""
+msgid "password_reset_successfully"
+msgstr "Password has been reset successfully!"
+
+#: 
+msgctxt "\"auth\""
+msgid "user_name_password_incorrect"
+msgstr "Username or Password is incorrect!"
+
+#: 
+msgctxt "\"auth\".\"buttons\""
+msgid "ok"
+msgstr "OK"
+
+#: 
+msgctxt "\"auth\".\"buttons\""
+msgid "done"
+msgstr "Done"
+
+#: 
+msgctxt "\"auth\".\"buttons\""
+msgid "submit"
+msgstr "Submit"
+
+#: 
+msgctxt "\"auth\".\"buttons\""
+msgid "login"
+msgstr "Login"
+
+#: 
+msgctxt "\"home\".\"sidebar\""
+msgid "menu"
+msgstr "Menu"
+
+#: 
+msgctxt "\"home\".\"sidebar\""
+msgid "user_management"
+msgstr "User Management"
+
+#: 
+msgctxt "\"home\".\"navbar\""
+msgid "welcome"
+msgstr "Welcome"
+
+#: 
+msgctxt "\"home\".\"navbar\""
+msgid "languages"
+msgstr "Languages"
+
+#: 
+msgctxt "\"home\".\"navbar\""
+msgid "region"
+msgstr "Region"
+
+#: 
+msgctxt "\"user-management\""
+msgid "user_management_heading"
+msgstr "User Management"
+
+#: 
+msgctxt "\"user-management\""
+msgid "filter"
+msgstr "Filter:"
+
+#: 
+msgctxt "\"user-management\""
+msgid "status"
+msgstr "Status"
+
+#: 
+msgctxt "\"user-management\""
+msgid "date"
+msgstr "Date"
+
+#: 
+msgctxt "\"user-management\""
+msgid "user_information"
+msgstr "User Information"
+
+#: 
+msgctxt "\"user-management\""
+msgid "personal_information"
+msgstr "Personal Information"
+
+#: 
+msgctxt "\"user-management\""
+msgid "name"
+msgstr "Name"
+
+#: 
+msgctxt "\"user-management\""
+msgid "email_address"
+msgstr "Email Address"
+
+#: 
+msgctxt "\"user-management\""
+msgid "mobile_number"
+msgstr "Mobile Number"
+
+#: 
+msgctxt "\"user-management\""
+msgid "user_type"
+msgstr "User Type"
+
+#: 
+msgctxt "\"user-management\""
+msgid "address"
+msgstr "Address"
+
+#: 
+msgctxt "\"user-management\""
+msgid "location"
+msgstr "Location"
+
+#: 
+msgctxt "\"user-management\""
+msgid "general_information"
+msgstr "General Information"
+
+#: 
+msgctxt "\"user-management\""
+msgid "full_name"
+msgstr "Full name"
+
+#: 
+msgctxt "\"user-management\""
+msgid "enter_full_name"
+msgstr "Enter full name"
+
+#: 
+msgctxt "\"user-management\""
+msgid "email"
+msgstr "Email"
+
+#: 
+msgctxt "\"user-management\""
+msgid "region"
+msgstr "Region"
+
+#: 
+msgctxt "\"user-management\""
+msgid "edit_user"
+msgstr "Edit User"
+
+#: 
+msgctxt "\"user-management\""
+msgid "add_user"
+msgstr "Add User"
+
+#: 
+msgctxt "\"user-management\".\"buttons\""
+msgid "cancel"
+msgstr "Cancel"
+
+#: 
+msgctxt "\"user-management\".\"buttons\""
+msgid "submit"
+msgstr "Submit"
+
+#: 
+msgctxt "\"user-management\".\"buttons\""
+msgid "load_more"
+msgstr "Load more"
+
+#: 
+msgctxt "\"user-management\".\"buttons\""
+msgid "add_new"
+msgstr "Add new"
+
+#: 
+msgctxt "\"user-management\".\"buttons\""
+msgid "global_admin"
+msgstr " Global Admin"
+
+#: 
+msgctxt "\"user-management\".\"buttons\""
+msgid "regional_admin"
+msgstr "Regional Admin"
+
+#: 
+msgctxt "\"user-management\".\"buttons\""
+msgid "reset_password"
+msgstr "Reset Password"
+
+#: 
+msgctxt "\"user-management\".\"buttons\""
+msgid "edit_information"
+msgstr "Edit Information"
+
+#: 
+msgctxt "\"user-management\".\"placeholders\""
+msgid "email"
+msgstr "emailaddress@info.com"
+
+#: 
+msgctxt "\"user-management\".\"placeholders\""
+msgid "location"
+msgstr "Enter location"
+
+#: 
+msgctxt "\"user-management\".\"placeholders\""
+msgid "search_user"
+msgstr "Search users..."
+
+#: 
+msgctxt "\"user-management\".\"placeholders\""
+msgid "enter_full_name"
+msgstr "Enter full name"
+
+#: 
+msgctxt "\"user-management\".\"pagination\""
+msgid "showing"
+msgstr "Showing { start } to { end } of { total } records"
+
+#: 
+msgid "test_key"
+msgstr "Test Key"
+
